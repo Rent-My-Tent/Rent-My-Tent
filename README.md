@@ -19,11 +19,13 @@ Once a tent is added to the marketplace it will always be available for rent; ex
 ## Week One
 * Why is blockchain needed to solve this problem?
 * What demographics do you serve?
-250,000 tents are left at music festivals across the UK every year. Source: Association of Independent Festivals
+  - 250,000 tents are left at music festivals across the UK every year. Source: Association of Independent Festivals
 * What is the size of the market?
 * What other solutions are currently being used to address this problem?
 * What are the geopolitical, cultural-social-economic factors that must be taken into consideration?
 * What are some nuances and complexities that must be addressed?
+  - Market dynamics
+  - Messaging
 
 ## Week Two
 User Personas
