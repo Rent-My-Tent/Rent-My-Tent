@@ -29,7 +29,10 @@ Once a tent is added to the marketplace it will always be available for rent; ex
 
 ## Week Two
 * Who are your constituents/clients/users?
+  - Tent owners, especially those who only have a single-use in mind.
+  - Tent buyers, especially those who only have a single-use in mind.
 * What are their pain points?
+  - No easy way to buy or sell second hand tents.
 * What is your product's value proposition?
 * What is your distribution and go-to-market strategy? Who can you partner with?
 * What are the risks associated with your solution?
