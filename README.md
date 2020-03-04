@@ -4,6 +4,8 @@
 ## Motivation
 Often people purchase tents with only a single-use in mind. This means we have many tents, yet little utility. :angry:
 
+In the UK its a particular problem at music festivals where 250,000 tents get left behind. This becomes nearly 900 tonnes of plastic waste, most of which ends up in landfill.
+
 ## System Overview
 Once a tent is added to the marketplace it will always be available for rent; except during rental periods when the tent is being used by the renter.
 
@@ -21,9 +23,12 @@ Once a tent is added to the marketplace it will always be available for rent; ex
   - Public blockchain infrastructure is well-suited to freely create and exchange unique digital representations of anything in forms of tokens.
 * What demographics do you serve?
   - 250,000 tents are left at music festivals across the UK every year. Source: Association of Independent Festivals
+  - Atomik Research found that music fans take £795 of camping gear to festivals leave £200's worth behind
 * What is the size of the market?
 * What other solutions are currently being used to address this problem?
 * What are the geopolitical, cultural-social-economic factors that must be taken into consideration?
+  - Calls to ban retailers from selling "single-use" tents
+  - Festival goers have become much more mindful in recent years, Glastonbury claim that 99.3% of tents we're taken home last year
 * What are some nuances and complexities that must be addressed?
   - Market dynamics
   - Messaging
@@ -36,6 +41,7 @@ Once a tent is added to the marketplace it will always be available for rent; ex
   - No easy way to buy or sell second hand tents.
 * What is your product's value proposition?
   - Give your tent a new lease of life
+  - Tents are for life, not just festivals!
   - Keeping your tent under the stars
   - Pass on your tent
   - Pay it forward, with a tent!
