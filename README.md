@@ -6,6 +6,8 @@ Often people purchase tents with only a single-use in mind. This means we have m
 
 In the UK its a particular problem at music festivals where 250,000 tents get left behind. This becomes nearly 900 tonnes of plastic waste, most of which ends up in landfill.
 
+Tents are multi-material - nylon, metal, plastic etc., so practically impossible to recycle. The average tent weighs 3.5kg and is mostly made of plastic - the equivalent of 8750 straws.
+
 ## System Overview
 Once a tent is added to the marketplace it will always be available for rent; except during rental periods when the tent is being used by the renter.
 
@@ -28,6 +30,7 @@ Once a tent is added to the marketplace it will always be available for rent; ex
 * What other solutions are currently being used to address this problem?
 * What are the geopolitical, cultural-social-economic factors that must be taken into consideration?
   - Calls to ban retailers from selling "single-use" tents
+  - In a recent survey, 12% of respondents said they thought that a left tent would go to charity. It doesn’t.
   - Festival goers have become much more mindful in recent years, Glastonbury claim that 99.3% of tents we're taken home last year
 * What are some nuances and complexities that must be addressed?
   - Market dynamics
