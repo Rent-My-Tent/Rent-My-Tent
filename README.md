@@ -25,15 +25,15 @@ Once a tent is added to the marketplace it will always be available for rent; ex
   - Public blockchain infrastructure is well-suited to freely create and exchange unique digital representations of physical items - in our case - tents!
 * What demographics do you serve?
   - 250,000 tents are left at music festivals across the UK every year. Source: Association of Independent Festivals.
-  - Atomik Research found that music fans take £795 of camping gear to festivals leave £200's worth behind.
+  - [Atomik Research](https://www.atomikresearch.co.uk/survey-finds-2000000-worth-of-tents-and-sleeping-bags-abandoned-each-year/) found that music fans take £795 of camping gear to festivals leave £200's worth behind.
 * What is the size of the market?
 * What other solutions are currently being used to address this problem?
 * What are the geopolitical, cultural-social-economic factors that must be taken into consideration?
   - Calls to ban retailers from selling "single-use" tents.
-  - In a recent survey, 12% of respondents said they thought that a left tent would go to charity. It doesn’t.
+  - In a recent festival-goer-survey, 12% of respondents said they thought that a left tent would go to charity. It doesn’t.
   - Festival goers have become much more mindful in recent years, Glastonbury claim that 99.3% of tents we're taken home last year.
 * What are some nuances and complexities that must be addressed?
-  - Bootstrapping two-sided marketplace - chicken & egg problem.
+  - Bootstrapping a two-sided marketplace - the classic chicken & egg problem.
   - Market dynamics.
   - Messaging.
 
@@ -49,6 +49,7 @@ Once a tent is added to the marketplace it will always be available for rent; ex
   - Tents are for life, not just festivals!
   - Keeping your tent under the stars
   - Pass on your tent
+  - Adopt a tent
   - Pay it forward, with a tent!
   - No tent left behind
 * What is your distribution and go-to-market strategy? Who can you partner with?
@@ -56,7 +57,7 @@ Once a tent is added to the marketplace it will always be available for rent; ex
 * What are the risks associated with your solution?
   - We can mitigate the risk that Facebook Marketplace takes over the world!
 * What is the impact of your solution? How will it be measured?
-  - The reuse of tents will reduce the production of them; helping save time, money, energy and resources.
+  - The reuse of tents will drive down the production of them; helping save time, money, energy and resources.
 
 ## Week Three
 Coming soon!
