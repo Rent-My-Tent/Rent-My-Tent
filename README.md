@@ -11,7 +11,7 @@ Tents are multi-material - nylon, metal, plastic etc., so practically impossible
 ## System Overview
 Once a tent is added to the marketplace it will always be available for rent; except during rental periods when the tent is being used by the renter.
 
-## Hackathon Deliverables
+## Program Deliverables
 * [Week One](#week-one)
 * [Week Two](#week-two)
 * [Week Three](#week-three)
