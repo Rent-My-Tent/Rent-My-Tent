@@ -18,6 +18,7 @@ Once a tent is added to the marketplace it will always be available for rent; ex
 
 ## Week One
 * Why is blockchain needed to solve this problem?
+  - Public blockchain infrastructure is well-suited to freely create and exchange unique digital representations of anything in forms of tokens.
 * What demographics do you serve?
   - 250,000 tents are left at music festivals across the UK every year. Source: Association of Independent Festivals
 * What is the size of the market?
@@ -34,9 +35,17 @@ Once a tent is added to the marketplace it will always be available for rent; ex
 * What are their pain points?
   - No easy way to buy or sell second hand tents.
 * What is your product's value proposition?
+  - Give your tent a new lease of life
+  - Keeping your tent under the stars
+  - Pass on your tent
+  - Pay it forward, with a tent!
+  - No tent left behind
 * What is your distribution and go-to-market strategy? Who can you partner with?
+  - We can partner with festivals
 * What are the risks associated with your solution?
+  - We can mitigate the risk that Facebook Marketplace takes over the world!
 * What is the impact of your solution? How will it be measured?
+  - The reuse of tents will reduce the production of them; helping save time, money, energy and resources.
 
 ## Week Three
 Coming soon!
