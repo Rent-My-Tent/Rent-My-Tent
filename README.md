@@ -9,7 +9,7 @@ In the UK its a particular problem at music festivals where 250,000 tents get le
 ## System Overview
 Once a tent is added to the marketplace it will always be available for rent; except during rental periods when the tent is being used by the renter.
 
-## Deliverables
+## Hackathon Deliverables
 * [Week One](#week-one)
 * [Week Two](#week-two)
 * [Week Three](#week-three)
