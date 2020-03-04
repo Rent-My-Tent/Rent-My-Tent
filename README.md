@@ -22,7 +22,7 @@ Once a tent is added to the marketplace it will always be available for rent; ex
 
 ## Week One
 * Why is blockchain needed to solve this problem?
-  - Public blockchain infrastructure is well-suited to freely create and exchange unique digital representations of anything in forms of tokens.
+  - Public blockchain infrastructure is well-suited to freely create and exchange unique digital representations of physical items - in our case - tents!
 * What demographics do you serve?
   - 250,000 tents are left at music festivals across the UK every year. Source: Association of Independent Festivals.
   - Atomik Research found that music fans take £795 of camping gear to festivals leave £200's worth behind.
