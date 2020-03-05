@@ -1,5 +1,5 @@
 # Rent My Tent
-> A marketplace for used tents. Sell your tent. Look for a tent.
+> A peer-to-peer marketplace for used tents. Sell your tent. Look for a tent.
 
 ## Motivation
 Often people purchase tents with only a single-use in mind. This means we have many tents, yet little utility. :angry:
