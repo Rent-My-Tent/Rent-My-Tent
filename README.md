@@ -34,6 +34,7 @@ Once a tent is added to the marketplace it will always be available for rent; ex
   - Festival goers have become much more mindful in recent years, Glastonbury claim that 99.3% of tents we're taken home last year.
 * What are some nuances and complexities that must be addressed?
   - Bootstrapping a two-sided marketplace - the classic chicken & egg problem.
+  - Trust.
   - Market dynamics.
   - Messaging.
 
