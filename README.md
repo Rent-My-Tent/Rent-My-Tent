@@ -31,7 +31,8 @@ Once a tent is added to the marketplace it will always be available for rent; ex
 * What are the geopolitical, cultural-social-economic factors that must be taken into consideration?
   - Calls to ban retailers from selling "single-use" tents.
   - In a recent festival-goer-survey, 12% of respondents said they thought that a left tent would go to charity. It doesn’t.
-  - Festival goers have become much more mindful in recent years, Glastonbury claim that 99.3% of tents we're taken home last year.
+  - Festival goers becoming more mindful in recent years.
+  - Glastonbury claim that 99.3% of tents we're taken home last year. They've been asking attendees to adhere to the ‘Love The Farm, Leave No Trace’ pledge and leave their campsite as they found it.
 * What are some nuances and complexities that must be addressed?
   - Bootstrapping a two-sided marketplace - the classic chicken & egg problem.
   - Trust.
