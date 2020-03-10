@@ -8,6 +8,12 @@ In the UK its a particular problem at music festivals where 250,000 tents get le
 
 Tents are multi-material - nylon, metal, plastic etc., so practically impossible to recycle. The average tent weighs 3.5kg and is mostly made of plastic - the equivalent of 8750 straws.
 
+## User Stories
+* Toby
+  -
+* Rachel
+  -
+
 ## System Overview
 Once a tent is added to the marketplace it will always be available for rent; except during rental periods when the tent is being used by the renter.
 
