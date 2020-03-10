@@ -10,9 +10,9 @@ Tents are multi-material - nylon, metal, plastic etc., so practically impossible
 
 ## User Stories
 * Toby
-  -
+  - coming soon
 * Rachel
-  -
+  - coming soon
 
 ## System Overview
 Once a tent is added to the marketplace it will always be available for rent; except during rental periods when the tent is being used by the renter.
