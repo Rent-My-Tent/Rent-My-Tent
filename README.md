@@ -4,7 +4,7 @@
 ## Motivation
 Often people purchase tents with only a single-use in mind. This means we have many tents, yet little utility. :angry:
 
-In the UK its a particular problem at music festivals where 250,000 tents get left behind. This becomes nearly 900 tonnes of plastic waste, most of which ends up in landfill.
+In the UK its a particular problem at music festivals where [250,000 tents get left behind every year.](https://www.independent.co.uk/life-style/festivals-2019-tent-ban-single-use-plastic-waste-pollution-aif-a8904216.html) This becomes nearly 900 tonnes of plastic waste, most of which ends up in landfill.
 
 Tents are multi-material - nylon, metal, plastic etc., so practically impossible to recycle. The average tent weighs 3.5kg and is mostly made of plastic - the equivalent of 8750 straws.
 
