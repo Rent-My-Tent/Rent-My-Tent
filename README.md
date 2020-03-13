@@ -10,9 +10,9 @@ Tents are multi-material - nylon, metal, plastic etc., so practically impossible
 
 ## User Stories
 * Toby
-  - coming soon
+  - As a tent owner I want to sell my tent so that I can get some money back for it whilst ensuring its put to good use / responsibly used.
 * Rachel
-  - coming soon
+  - As someone in the market for a tent I'd rather rent than own a tent, to save money and to depend on less stuff.
 
 ## System Overview
 Once a tent is added to the marketplace it will always be available for rent; except during rental periods when the tent is being used by the renter.
