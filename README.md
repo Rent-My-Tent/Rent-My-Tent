@@ -1,5 +1,5 @@
 # Rent My Tent
-> A peer-to-peer marketplace for used tents. Sell your tent. Look for a tent.
+> A peer-to-peer marketplace for used tents. Sell your tent. Hire a tent.
 
 ## Motivation
 Often people purchase tents with only a single-use in mind. This means we have many tents, yet little utility. :angry:
@@ -9,9 +9,9 @@ In the UK its a particular problem at music festivals where [250,000 tents get l
 Tents are multi-material - nylon, metal, plastic etc., so practically impossible to recycle. The average tent weighs 3.5kg and is mostly made of plastic - the equivalent of 8750 straws.
 
 ## User Stories
-* Toby
+* Toby  (see Toby's user persona on [Milanote](https://app.milanote.com/1J9Phh1KiYulbj))
   - As a tent owner I want to sell my tent so that I can get some money back for it whilst ensuring its put to good use / responsibly used.
-* Rachel
+* Rachel  (see Rachel's user persona on [Milanote](https://app.milanote.com/1J9Pro1KiYulbl))
   - As someone in the market for a tent I'd rather rent than own a tent, to save money and to depend on less stuff.
 
 ## System Overview
