@@ -66,7 +66,14 @@ Once a tent is added to the marketplace it will always be available for rent; ex
   - The reuse of tents will drive down the production of them; helping save time, money, energy and resources.
 
 ## Week Three and Four
-Coming soon!
+### Our testing approach
+We wanted to test out the hypothesis we have for each side of Rent My Tent's marketplace.
+
+On the **demand side** we wanted to see if people could grasp the concept and whether people would consider Rent My Tent being their go to place for hiring a used tent.
+
+On the **supply side** Rent My Tent needs to be attractive to people who may be considering selling their tent.
+
+Could they understand the intricacies / uniqueness of the concept? Most importantly are they aware that on the supply side people are selling their tent (rather than renting it out), and on the demand side people hire a tent. And would the people who hire tents understand that they keep custody of it until the next rental comes along?
 
 ## Week Five
 Coming soon!
