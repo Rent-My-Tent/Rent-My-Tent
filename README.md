@@ -20,11 +20,9 @@ Once a tent is added to the marketplace it will always be available for rent; ex
 ## Program Deliverables
 * [Week One](#week-one)
 * [Week Two](#week-two)
-* [Week Three](#week-three)
-* [Week Four](#week-four)
+* [Week Three & Four](#week-three-&-four)
 * [Week Five](#week-five)
-* [Week Six](#week-six)
-* [Demo](#demo)
+* [Final week submission](#final-week-submission)
 
 ## Week One
 * Why is blockchain needed to solve this problem?
@@ -67,19 +65,13 @@ Once a tent is added to the marketplace it will always be available for rent; ex
 * What is the impact of your solution? How will it be measured?
   - The reuse of tents will drive down the production of them; helping save time, money, energy and resources.
 
-## Week Three
-Coming soon!
-
-## Week Four
+## Week Three & Four
 Coming soon!
 
 ## Week Five
 Coming soon!
 
-## Week Six
-Coming soon!
-
-## Demo
+## Final week submission
 Coming soon!
 
 ## Features
