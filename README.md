@@ -66,7 +66,15 @@ Once a tent is added to the marketplace it will always be available for rent; ex
   - The reuse of tents will drive down the production of them; helping save time, money, energy and resources.
 
 ## Week Three and Four
-### Our testing approach
+### Prototyping
+
+By mocking up a Rent My Tent homepage we had a focal point and aid for our customer interviews.
+
+At the same time we got to work on the marketplace design / system architecture by working out all of the interactions that Toby and Rachel will have with Rent My Tent, and with each other. This work is represented by a complex diagram on Milanote.
+
+### MVP testing
+**Our testing approach**
+
 We tested out the hypothesis we have for each side of Rent My Tent's marketplace by talking with prospective users.
 
 On the **demand side** we wanted to see if people could grasp the concept and whether people would consider Rent My Tent being their go-to destination for hiring a used tent.
@@ -76,7 +84,9 @@ On the **supply side** Rent My Tent needs to be attractive to people who may be 
 Could our prospective users understand the intricacies / uniqueness of the concept?
 
 Most importantly are they aware that on the supply side people are selling their tent (rather than renting it out), and on the demand side people hire a tent. And would the people who hire tents understand that they keep custody of it until the next rental comes along?
-### What we learned
+
+**What we learned**
+
 We found that the concept needed some explaining, mostly due to its uniqueness. The broad idea really started to resonate with people when we had the opportunity to explain it in terms of a [deposit return scheme](https://www.greenpeace.org.uk/news/deposit-return-schemes-what-exactly-are-they/) - something which people are very familiar with. Most of the people we spoke with wondered why _tent hirers_ would take care of the tent they hire and it was easy to answer this by drawin the comparison with general deposit return schemes. The deposit part of the fee paid by _tent hirers_ (deposit gets locked up in smart contract) incentives them to take good care of their hired tent, helps to ensure it remains in good condition, and is available ready for the next rental.
 
 ## Week Five
