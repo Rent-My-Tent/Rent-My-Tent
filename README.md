@@ -75,7 +75,7 @@ At the same time we got to work on the marketplace design / system architecture 
 ### MVP testing
 **Our testing approach**
 
-We tested out the hypothesis we have for each side of Rent My Tent's marketplace by talking with prospective users.
+We tested out the hypotheses we have for each side of Rent My Tent's marketplace by talking with prospective users.
 
 On the **demand side** we wanted to see if people could grasp the concept and whether people would consider Rent My Tent being their go-to destination for hiring a used tent.
 
@@ -87,7 +87,7 @@ Most importantly are they aware that on the supply side people are selling their
 
 **What we learned**
 
-We found that the concept needed some explaining, mostly due to its uniqueness. The broad idea really started to resonate with people when we had the opportunity to explain it in terms of a [deposit return scheme](https://www.greenpeace.org.uk/news/deposit-return-schemes-what-exactly-are-they/) - something which people are very familiar with. Most of the people we spoke with wondered why _tent hirers_ would take care of the tent they hire and it was easy to answer this by drawin the comparison with general deposit return schemes. The deposit part of the fee paid by _tent hirers_ (deposit gets locked up in smart contract) incentives them to take good care of their hired tent, helps to ensure it remains in good condition, and is available ready for the next rental.
+We found that the concept needed some explaining, mostly due to its uniqueness. The broad idea really started to resonate with people when we had the opportunity to explain it in terms of a [deposit return scheme](https://www.greenpeace.org.uk/news/deposit-return-schemes-what-exactly-are-they/) - something which people are very familiar with. Most of the people we spoke with wondered why _tent hirers_ would take care of the tent they hire and it was easy to answer this by drawin the comparison with general deposit return schemes. The deposit part of the fee paid by _tent hirers_ (deposit gets locked up in smart contract) incentivises them to take good care of their hired tent, helps to ensure it remains in good condition, and is available ready for the next rental.
 
 ## Week Five
 Coming soon!
