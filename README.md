@@ -20,7 +20,7 @@ Once a tent is added to the marketplace it will always be available for rent; ex
 ## Program Deliverables
 * [Week One](#week-one)
 * [Week Two](#week-two)
-* [Week Three & Four](#week-three-&-four)
+* [Week Three + Four](#week-three-+-four)
 * [Week Five](#week-five)
 * [Final week submission](#final-week-submission)
 
@@ -65,7 +65,7 @@ Once a tent is added to the marketplace it will always be available for rent; ex
 * What is the impact of your solution? How will it be measured?
   - The reuse of tents will drive down the production of them; helping save time, money, energy and resources.
 
-## Week Three & Four
+## Week Three + Four
 Coming soon!
 
 ## Week Five
