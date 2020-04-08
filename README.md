@@ -22,7 +22,7 @@ Once a tent is added to the marketplace it will always be available for rent; ex
 Learn how this works here.
 
 ## Key focus for UX
-- Adding a tent to the marketplace
+- Adding a tent to the marketplace - here's how it might look on [mobile and desktop](https://github.com/kelvinlockwood/Rent-My-Tent/blob/master/Accordian_tent_listing_flow.png)
 - Automatically putting a tent back on the marketplace
 - Communication / notifications that ensure the renter understands what is happening now that the rental period has come to an end
 
