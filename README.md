@@ -8,6 +8,8 @@ In the UK its a particular problem at music festivals where [250,000 tents get l
 
 Tents are multi-material - nylon, metal, plastic etc., so practically impossible to recycle. The average tent weighs 3.5kg and is mostly made of plastic - the equivalent of 8750 straws.
 
+Read more about the problem [here](https://mixmag.net/read/festival-organisers-ban-disposable-tents-news), [here](https://www.telegraph.co.uk/news/2019/08/27/festival-goers-should-pay-25-fee-withheld-tent-abandoned-campaign/) and [here.](https://www.nme.com/features/festivals-abandoned-tents-waste-reduction-2382025)
+
 ## User Stories
 * Toby  (see Toby's user persona on [Milanote](https://app.milanote.com/1J9Phh1KiYulbj))
   - As a tent owner I want to sell my tent so that I can get some money back for it whilst ensuring its put to good use / responsibly used.
