@@ -1,6 +1,8 @@
 # Rent My Tent
 > A peer-to-peer marketplace for used tents. Sell your tent. Hire a tent.
 
+![Rent-my-tent.org](https://github.com/kelvinlockwood/Rent-My-Tent/blob/master/Website_mockup_RentMyTent.png?raw=true)
+
 ## Motivation
 Often people purchase tents with only a single-use in mind. This means we have many tents, yet little utility. :angry:
 
