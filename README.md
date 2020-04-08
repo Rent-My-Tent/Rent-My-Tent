@@ -89,6 +89,8 @@ Could our prospective users understand the intricacies / uniqueness of the conce
 
 Most importantly are they aware that on the supply side people are selling their tent (rather than renting it out), and on the demand side people hire a tent. And would the people who hire tents understand that they keep custody of it until the next rental comes along?
 
+All conversations started with these basic questions: _do you own a tent?  when did you buy it?  when did you last use it?  where is it now?  when do you think you might use it again?  is that a concrete plan?_
+
 **What we learned**
 
 We found that the concept needed some explaining, mostly due to its uniqueness. The broad idea really started to resonate with people when we had the opportunity to explain it in terms of a [deposit return scheme](https://www.greenpeace.org.uk/news/deposit-return-schemes-what-exactly-are-they/) - something which people are very familiar with. Most of the people we spoke with wondered why _tent hirers_ would take care of the tent they hire and it was easy to answer this by drawin the comparison with general deposit return schemes. The deposit part of the fee paid by _tent hirers_ (deposit gets locked up in smart contract) incentivises them to take good care of their hired tent, helps to ensure it remains in good condition, and is available ready for the next rental.
