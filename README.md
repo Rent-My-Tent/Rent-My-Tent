@@ -19,6 +19,11 @@ Once a tent is added to the marketplace it will always be available for rent; ex
 
 Learn how this works here.
 
+## Key focus for UX
+- Adding a tent to the marketplace
+- Automatically putting a tent back on the marketplace
+- Communication / notifications that ensure the renter understands what is happening now that the rental period has come to an end
+
 ## Program Deliverables
 * [Week One](#week-one)
 * [Week Two](#week-two)
@@ -64,6 +69,7 @@ Learn how this works here.
   - Your tent needs you (to think about the future!)
 * What is your distribution and go-to-market strategy? Who can you partner with?
   - We can partner with festivals.
+  - We can leverage Facebook Marketplace by messaging everyone who lists a tent to ask them if they know about our better way of doing things!
 * What are the risks associated with your solution?
   - We can mitigate the risk that Facebook Marketplace takes over the world!
 * What is the impact of your solution? How will it be measured?
