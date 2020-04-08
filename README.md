@@ -58,6 +58,7 @@ Once a tent is added to the marketplace it will always be available for rent; ex
   - Adopt a tent
   - Pay it forward, with a tent!
   - No tent left behind
+  - Your tent needs you (to think about the future!)
 * What is your distribution and go-to-market strategy? Who can you partner with?
   - We can partner with festivals.
 * What are the risks associated with your solution?
