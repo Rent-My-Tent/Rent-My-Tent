@@ -17,6 +17,8 @@ Tents are multi-material - nylon, metal, plastic etc., so practically impossible
 ## System Overview
 Once a tent is added to the marketplace it will always be available for rent; except during rental periods when the tent is being used by the renter.
 
+Learn how this works here.
+
 ## Program Deliverables
 * [Week One](#week-one)
 * [Week Two](#week-two)
@@ -27,6 +29,7 @@ Once a tent is added to the marketplace it will always be available for rent; ex
 ## Week One
 * Why is blockchain needed to solve this problem?
   - Public blockchain infrastructure is well-suited to freely create and exchange unique digital representations of physical items - in our case - tents!
+  - The marketplace we have in mind needs blockchain to hold tent-rental-deposits so the marketplace users don't have to depend on a central authority who could run off with those deposits.
 * What demographics do you serve?
   - 250,000 tents are left at music festivals across the UK every year. Source: Association of Independent Festivals.
   - [Atomik Research](https://www.atomikresearch.co.uk/survey-finds-2000000-worth-of-tents-and-sleeping-bags-abandoned-each-year/) found that music fans take £795 of camping gear to festivals leave £200's worth behind.
@@ -58,6 +61,7 @@ Once a tent is added to the marketplace it will always be available for rent; ex
   - Adopt a tent
   - Pay it forward, with a tent!
   - No tent left behind
+  - Your tent needs you (to think about the future!)
 * What is your distribution and go-to-market strategy? Who can you partner with?
   - We can partner with festivals.
 * What are the risks associated with your solution?
