@@ -106,10 +106,16 @@ All conversations started with these basic questions: _do you own a tent?  when 
 We found that the concept needed some explaining, mostly due to its uniqueness. The broad idea really started to resonate with people when we had the opportunity to explain it in terms of a [deposit return scheme](https://www.greenpeace.org.uk/news/deposit-return-schemes-what-exactly-are-they/) - something which people are very familiar with. Most of the people we spoke with wondered why _tent hirers_ would take care of the tent they hire and it was easy to answer this by drawin the comparison with general deposit return schemes. The deposit part of the fee paid by _tent hirers_ (deposit gets locked up in smart contract) incentivises them to take good care of their hired tent, helps to ensure it remains in good condition, and is available ready for the next rental.
 
 ## Week Five
-Coming soon!
+
 
 ## Final week submission
-Coming soon!
+During the final week we produced a series of videos to represent this project:
+
+- In this [7 min video](https://youtu.be/gKwf85RInG4) Kelvin gives a high level overview of the Rent My Tent marketplace, explaining its unique features.
+
+- In this X min video Rob goes under the hood of his smart contracts to explain how the Rent My Tent marketplace is enabled by the Ethereum [ERC-721](http://erc721.org/) token standard.
+
+- In this series of videos Jett demonstrates the mobile app functionality that he built using the Celo's SDK.
 
 ## Features
 List of features ready and TODOs for future development
