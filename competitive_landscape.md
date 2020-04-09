@@ -1,10 +1,10 @@
-### Competitors can be loosely categorised into three main groups...
+### Competitors can be loosely categorised into three main groups
 
-visual
+> Specialist Retailers | Online Marketplaces | Creative Initiatives
 
 ---
 
-**Specialist retailers** are the primary outlet for outdoor equipment & camping gear so they make up our first group of competitors.
+**Specialist Retailers** are the primary outlet for outdoor equipment & camping gear so they make up our first group of competitors.
 
 The UK retail market is dominated by long-standing operators Blacks and Millets. In the US, 82 year old REI is the market leader, operating 158 retail stores in 37 states. REI also operates an equipment rental service.
 
