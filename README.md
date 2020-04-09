@@ -113,11 +113,13 @@ During the final week we produced a series of videos to represent this project:
 
 - In this [7 min video](https://youtu.be/gKwf85RInG4) Kelvin gives a high level overview of the Rent My Tent marketplace, explaining its unique features.
 
-- In this X min video Rob goes under the hood of his smart contracts to explain how the Rent My Tent marketplace is enabled by the Ethereum [ERC-721](http://erc721.org/) token standard.
+- In this [10 min video](https://youtu.be/hIZE76YvB_0) Rob goes under the hood of his smart contracts to explain how the Rent My Tent marketplace is enabled by the Ethereum [ERC-721](http://erc721.org/) token standard.
 
 - In this [series of videos](https://github.com/kelvinlockwood/Rent-My-Tent/blob/master/celo_demo.md) Jett demonstrates the mobile app functionality that he built using Celo's SDK.
 
-To showcase Rent My Rent we developed two technical projects. Our main project is built on Ethereum and the ERC721 token standard. And our supplementary project was built on Celo's SDK.
+---
+
+To showcase Rent My Rent we developed two technical projects. Our [primary project](https://youthful-volhard-3a730f.netlify.com/) is built on Ethereum and the ERC721 token standard. And our [secondary project](https://github.com/jettandres/rent-my-tent) is built on Celo's SDK.
 
 Celo’s focus on being mobile-first and having a native stable currency offers a lot of promise to our project. We don’t want to expose our users to any complicated token economics or ask them to reason with the complexities of DAOs. We just need to make it easy to list a tent, easy to hire a tent and for locked up deposits to be safe from any threats. We also liked the idea of all users paying a $1 lifetime membership fee and that idea looked a good fit for Celo.
 
