@@ -21,7 +21,7 @@ Read more about the problem [here](https://mixmag.net/read/festival-organisers-b
 ## System Overview
 Once a tent is added to the marketplace it will always be available for rent; except during rental periods when the tent is being used by the renter.
 
-Learn how this works here.
+For a quick overview of how this works go [here](https://github.com/kelvinlockwood/Rent-My-Tent/blob/master/marketplace_explainer.md). To understand every interaction between a tent seller and a tent hirer check out this [marketplace design doc](https://github.com/kelvinlockwood/Rent-My-Tent/blob/master/MarketplaceDesign_RentMyTent.pdf).
 
 ## Key focus for UX
 - Adding a tent to the marketplace - here's how it might look on [mobile and desktop](https://github.com/kelvinlockwood/Rent-My-Tent/blob/master/Accordian_tent_listing_flow.png)
