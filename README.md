@@ -115,6 +115,8 @@ During the final week we produced a series of videos to represent this project:
 
 - In this [10 min video](https://youtu.be/hIZE76YvB_0) Rob goes under the hood of his smart contracts to explain how the Rent My Tent marketplace is enabled by the Ethereum [ERC-721](http://erc721.org/) token standard.
 
+- In this [7 min video](https://youtu.be/YrmwcxcaUg8) Rob walks you through Rent My Tent from the front-end web perspective, demonstrating the steps to list a tent on the marketplace.
+
 - In this [series of videos](https://github.com/kelvinlockwood/Rent-My-Tent/blob/master/celo_demo.md) Jett demonstrates the mobile app functionality that he built using Celo's SDK.
 
 ---
