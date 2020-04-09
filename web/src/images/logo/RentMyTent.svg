@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="462px" height="389px" viewBox="0 0 462 389" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>RentMyTent</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Artboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-19.000000, -56.000000)">
+        <g id="RentMyTent" transform="translate(19.000000, 56.000000)">
+            <polygon id="Triangle" fill="#FFCA60" points="231 0 462 389 0 389"></polygon>
+            <polygon id="Triangle-2" fill="#F3A361" points="231 105 462 389 0 389"></polygon>
+            <polygon id="Triangle-3" fill="#F37F65" points="231.5 193 388 389 75 389"></polygon>
+        </g>
+    </g>
+</svg>
