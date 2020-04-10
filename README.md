@@ -126,7 +126,14 @@ To showcase Rent My Rent we developed two technical projects. Our [primary proje
 Celo’s focus on being mobile-first and having a native stable currency offers a lot of promise to our project. We don’t want to expose our users to any complicated token economics or ask them to reason with the complexities of DAOs. We just need to make it easy to list a tent, easy to hire a tent and for locked up deposits to be safe from any threats. We also liked the idea of all users paying a $1 lifetime membership fee and that idea looked a good fit for Celo.
 
 ## Status
-Project is: _in progress_, a [Decentralized Impact Incubator project.](https://blockchainforsocialimpact.com/incubator/)
+Project has been submitted for judging, a [Decentralized Impact Incubator project.](https://blockchainforsocialimpact.com/incubator/)  |  _Plastics & Pollution_ and _Celo Peace & Prosperity_ categories
+
+## Next steps
+Our next major goal is to pilot Rent My Tent at [Houghton Festival](https://www.houghtonfestival.co.uk/)
+ in August of this year. We’ve had a warm response from [Amanda Eastwood](https://github.com/kelvinlockwood/Rent-My-Tent/blob/master/validation_from_festival_organiser.md)
+ who is keen on the idea, however she doesn’t yet know if Houghton Festival will run this year due to the current Coronavirus crisis.
+
+We’re also looking to take this project forward alongside opportunities in the blockchain space. We’ll be considering [MetaCartel](https://metacartel.xyz/), [The LAO](https://medium.com/@thelaoofficial/become-a-project-funded-by-the-lao-333e03cf5c) and [Celo Camp](https://medium.com/celoorg/announcing-celo-camp-f78ddf07e25d) in due course.
 
 ## Contact
-Team formed by Kelvin Lockwood - feel free to contact me!
+Team formed by [Kelvin Lockwood](https://twitter.com/kelvinlockwood) - feel free to contact me!
