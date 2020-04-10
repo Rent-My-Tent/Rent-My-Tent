@@ -28,6 +28,17 @@ For a quick overview of how this works go [here](https://github.com/kelvinlockwo
 - Automatically putting a tent back on the marketplace
 - Communication / notifications that ensure the renter understands what is happening now that the rental period has come to an end
 
+## How it works
+### For tent sellers
+- **List your tent** > Include some photos and a description
+- **Sell your tent** > Get money for your idle tent
+- **Save the planet** > When your tent is taken off your hands it will always be available here for rent
+### For tent hirers
+- **Find a tent to rent** > Choose from a wide range of good-quality used tents
+- **Save money** > Pay for the rental and a refundable deposit
+- **Select rental period** > Choose how long you want to keep the tent
+- **Take care of the tent** > Once the rental period is up you’re the custodian until the next renter comes along
+
 ## Program Deliverables
 * [Week One](#week-one)
 * [Week Two](#week-two)
