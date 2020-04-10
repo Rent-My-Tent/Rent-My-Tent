@@ -42,8 +42,8 @@ For a quick overview of how this works go [here](https://github.com/kelvinlockwo
 * What demographics do you serve?
   - 250,000 tents are left at music festivals across the UK every year. Source: Association of Independent Festivals.
   - [Atomik Research](https://www.atomikresearch.co.uk/survey-finds-2000000-worth-of-tents-and-sleeping-bags-abandoned-each-year/) found that music fans take £795 of camping gear to festivals leave £200's worth behind.
-* What is the size of the market?
-* What other solutions are currently being used to address this problem?
+* What is the size of the market? See page 5 in [pitch deck](https://docs.google.com/presentation/d/1pfMiXQ7ruqEg2t5wqel0RgIdHESrt7vAr_rtwXDiP0o/edit?usp=sharing)
+* What other solutions are currently being used to address this problem?  See page 10 in [pitch deck](https://docs.google.com/presentation/d/1pfMiXQ7ruqEg2t5wqel0RgIdHESrt7vAr_rtwXDiP0o/edit?usp=sharing)
 * What are the geopolitical, cultural-social-economic factors that must be taken into consideration?
   - Calls to ban retailers from selling "single-use" tents.
   - In a recent festival-goer-survey, 12% of respondents said they thought that a left tent would go to charity. It doesn’t.
