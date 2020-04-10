@@ -84,7 +84,7 @@ For a quick overview of how this works go [here](https://github.com/kelvinlockwo
 
 By mocking up a Rent My Tent homepage we had a focal point and aid for our customer interviews.
 
-At the same time we got to work on the marketplace design / system architecture by working out all of the interactions that Toby and Rachel will have with Rent My Tent, and with each other. This work is represented by a complex diagram on Milanote.
+At the same time we got to work on the marketplace design / system architecture by working out all of the interactions that Toby and Rachel will have with Rent My Tent, and with each other. This work is represented by this [complex diagram](https://github.com/kelvinlockwood/Rent-My-Tent/blob/master/MarketplaceDesign_RentMyTent.pdf).
 
 ### MVP testing
 **Our testing approach**
