@@ -1,5 +1,5 @@
 // Frameworks
-import React from 'react';
+import React, { useState } from 'react';
 import { navigate } from 'gatsby';
 import clsx from 'clsx';
 import * as _ from 'lodash';
@@ -10,6 +10,12 @@ import Box from '@material-ui/core/Box';
 import Grid from '@material-ui/core/Grid';
 import Button from '@material-ui/core/Button';
 import Typography from '@material-ui/core/Typography';
+import IconButton from '@material-ui/core/IconButton';
+import OutlinedInput from '@material-ui/core/OutlinedInput';
+import InputLabel from '@material-ui/core/InputLabel';
+import InputAdornment from '@material-ui/core/InputAdornment';
+import FormControl from '@material-ui/core/FormControl';
+import SearchIcon from '@material-ui/icons/Search';
 
 // Layout Components
 import Layout from '../layout/layout';
@@ -17,6 +23,9 @@ import SEO from '../common/seo';
 import HeroHeader from '../common/HeroHeader'
 import HeroFooter from '../common/HeroFooter'
 import { GLOBALS } from '../utils/globals';
+
+// Background Image
+import background from '../images/tent2.png';
 
 // Custom Theme
 import useLandingStyles from '../layout/styles/landing.styles';
@@ -49,14 +58,17 @@ const StyledButton = withStyles(theme => {
 // Static Route
 const IndexPage = () => {
     const classes = useLandingStyles();
+    const searchLabel = 'Search for a tent';
+
+    const [ searchValue, setSearchValue ] = useState('');
 
     const _gotoApp = (evt) => {
         evt.preventDefault();
-        navigate(`${GLOBALS.APP_ROOT}`);
+        navigate(`${GLOBALS.APP_ROOT}/list`);
     };
 
-    const _getHeroHeader = ({siteTitle, onHomeClick}) => {
-        return (<HeroHeader siteTitle={siteTitle} onHomeClick={onHomeClick} />);
+    const _getHeroHeader = ({siteTitle, onRedirect}) => {
+        return (<HeroHeader siteTitle={siteTitle} onRedirect={onRedirect} />);
     };
 
     const _getHeroFooter = () => {
@@ -76,6 +88,9 @@ const IndexPage = () => {
                 justify="center"
                 alignItems="stretch"
                 className={classes.heroContainer}
+                style={{
+                    backgroundImage: `url(${background})`,
+                }}
             >
                 <Grid
                     container
@@ -84,7 +99,7 @@ const IndexPage = () => {
                     alignItems="center"
                     spacing={5}
                 >
-                    <Grid item xs={12} sm={6}>
+                    <Grid item xs={12}>
                         <Box px={5}>
                             <Typography variant="h3" className={classes.heading1}>
                                 Sell your tent.
@@ -97,10 +112,52 @@ const IndexPage = () => {
                             </Typography>
                         </Box>
                     </Grid>
+                </Grid>
+
+                <Grid
+                    container
+                    direction="row"
+                    justify="center"
+                    alignItems="flex-start"
+                    spacing={2}
+                >
+                    <Grid item xs={12} sm={6} className={classes.heroInputContainer}>
+                        <FormControl variant="outlined">
+                            <InputLabel htmlFor="tentSearchId">{searchLabel}</InputLabel>
+                            <OutlinedInput
+                                id="tentSearchId"
+                                type="text"
+                                value={searchValue}
+                                onChange={(evt) => { setSearchValue(evt.target.value); }}
+                                endAdornment={
+                                    <InputAdornment position="end">
+                                        <IconButton
+                                            aria-label={searchLabel}
+                                            onClick={() => alert('todo..')}
+                                            onMouseDown={e => e.preventDefault()}
+                                            edge="end"
+                                        >
+                                            <SearchIcon />
+                                        </IconButton>
+                                    </InputAdornment>
+                                }
+                                labelWidth={135}
+                            />
+                        </FormControl>
+                    </Grid>
 
                     <Grid item xs={12} sm={6}>
-                        <Box px={5}>
-                            <StyledButton size="large" as="a" href="#" onClick={_gotoApp}>List a Tent</StyledButton>
+                        <Box px={2}>
+                            OR
+                            <StyledButton
+                                size="large"
+                                as="a"
+                                href="#"
+                                onClick={_gotoApp}
+                                style={{marginLeft:'1.5rem'}}
+                            >
+                                List a Tent
+                            </StyledButton>
                         </Box>
                     </Grid>
                 </Grid>

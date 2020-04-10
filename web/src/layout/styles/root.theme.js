@@ -14,7 +14,7 @@ export default createMuiTheme({
         // type: 'dark',
         background: {
             default: '#f5ead2',
-            paper:   '#f0f0f0',
+            paper:   '#FCFBF7',
         },
         primary: {
             main: '#ed7a34',

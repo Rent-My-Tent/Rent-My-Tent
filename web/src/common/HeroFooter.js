@@ -14,18 +14,18 @@ const HeroFooter = () => {
     const classes = useLandingStyles();
     return (
         <footer className={classes.heroFooter}>
-            <Box px={5}>
-                <Grid
-                    container
-                    direction="row"
-                    justify="space-between"
-                    alignItems="center"
-                >
-                    <Typography>
+            <Grid
+                container
+                direction="row"
+                justify="space-between"
+                alignItems="flex-start"
+            >
+                <Box pt={7}>
+                    <Typography variant={'body2'}>
                         &copy; {new Date().getFullYear()}, Rent My Tent
                     </Typography>
-                </Grid>
-            </Box>
+                </Box>
+            </Grid>
         </footer>
     );
 };

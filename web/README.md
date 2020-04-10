@@ -4,7 +4,7 @@ A **Progressive Web App** for **Selling & Renting Tents**, reducing the amount o
 
 Works on any Mobile or Desktop Browser, with or without a Web3 Wallet.  This is acheived through various integrations with Web-based Custodial Wallet solutions.
 
-###Reasoning
+### Reasoning
 
 Often people purchase tents with only a single-use in mind. This means we have many tents (camping, festivals, etc.), yet little utility.
 
@@ -12,7 +12,7 @@ In the UK its a particular problem at music festivals where **250,000** tents ge
 
 Tents are multi-material - nylon, metal, plastic etc., which makes them practically impossible to recycle. The average tent weighs **3.5kg** and is mostly made of plastic - the equivalent of **8750 straws**.
 
-###System Overview
+### System Overview
 
 Once a tent is added to the marketplace it will always be available for rent; except during rental periods when the tent is being used by the renter.
 

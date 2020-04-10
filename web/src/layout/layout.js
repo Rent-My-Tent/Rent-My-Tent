@@ -33,12 +33,15 @@ const Layout = ({children, header, footer}) => {
         }
     `);
 
-    const _goHome = () => { navigate(GLOBALS.APP_ROOT) };
+    const _appRedirect = (route = '') => (evt) => {
+        evt.preventDefault();
+        navigate(`${GLOBALS.APP_ROOT}/${route}`)
+    };
 
     if (_.isFunction(header)) {
-        header = header({siteTitle: data.site.siteMetadata.title, onHomeClick: _goHome});
+        header = header({siteTitle: data.site.siteMetadata.title, onRedirect: _appRedirect});
     } else {
-        header = (<Header siteTitle={data.site.siteMetadata.title} onClick={_goHome}/>);
+        header = (<Header siteTitle={data.site.siteMetadata.title} onRedirect={_appRedirect}/>);
     }
 
     if (_.isFunction(footer)) {
@@ -51,7 +54,9 @@ const Layout = ({children, header, footer}) => {
         <ThemeProvider theme={theme}>
             <div className={classes.primaryContainer}>
                 {header}
-                <main>{children}</main>
+                <main className={classes.primaryContent}>
+                    {children}
+                </main>
                 {footer}
             </div>
         </ThemeProvider>

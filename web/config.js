@@ -4,7 +4,7 @@ const subtitle = 'No tent left behind!';
 const imageSm  = 'src/images/favicon/android-chrome-192x192.png';
 const imageLg  = 'src/images/favicon/android-chrome-256x256.png';
 
-const stageUrl = 'https://rent-my-tent.org'; // No trailing slash
+const stageUrl = 'https://rent-my-tent.netlify.com'; // No trailing slash
 const prodUrl  = 'https://rent-my-tent.org'; // No trailing slash
 const currentUrl = stageUrl;
 

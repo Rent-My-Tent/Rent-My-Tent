@@ -12,7 +12,7 @@ import Link from '@material-ui/core/Link';
 import useLandingStyles from '../layout/styles/landing.styles';
 
 
-const HeroHeader = ({siteTitle, onHomeClick}) => {
+const HeroHeader = ({siteTitle, onRedirect}) => {
     const classes = useLandingStyles();
     const preventDefault = (event) => event.preventDefault();
 
@@ -36,7 +36,7 @@ const HeroHeader = ({siteTitle, onHomeClick}) => {
                 justify="space-between"
                 alignItems="center"
             >
-                <a href={'#'} onClick={onHomeClick} className={classes.heroLogo}>
+                <a href={'#'} onClick={onRedirect()} className={classes.heroLogo}>
                     <Img fixed={logoData.tentLogo.childImageSharp.fixed} className={classes.heroLogoImg} />
                     <span>{siteTitle}</span>
                 </a>
@@ -50,7 +50,7 @@ const HeroHeader = ({siteTitle, onHomeClick}) => {
                         How it works
                     </Link>
 
-                    <Link href="#" className={classes.heroMenuLink} onClick={preventDefault}>
+                    <Link href="#" className={classes.heroMenuLink} onClick={onRedirect('list')}>
                         Get Started
                     </Link>
                 </div>
@@ -61,7 +61,7 @@ const HeroHeader = ({siteTitle, onHomeClick}) => {
 
 HeroHeader.propTypes = {
     siteTitle: PropTypes.string.isRequired,
-    onHomeClick: PropTypes.func.isRequired,
+    onRedirect: PropTypes.func.isRequired,
 };
 
 export default HeroHeader;
