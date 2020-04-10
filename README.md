@@ -126,7 +126,7 @@ To showcase Rent My Rent we developed two technical projects. Our [primary proje
 Celo’s focus on being mobile-first and having a native stable currency offers a lot of promise to our project. We don’t want to expose our users to any complicated token economics or ask them to reason with the complexities of DAOs. We just need to make it easy to list a tent, easy to hire a tent and for locked up deposits to be safe from any threats. We also liked the idea of all users paying a $1 lifetime membership fee and that idea looked a good fit for Celo.
 
 ## Status
-Project has been submitted for judging, a [Decentralized Impact Incubator project.](https://blockchainforsocialimpact.com/incubator/)  |  _Plastics & Pollution_ and _Celo Peace & Prosperity_ categories
+Project has been submitted for judging, _Plastics & Pollution_ and _Celo Peace & Prosperity_ categories. A [Decentralized Impact Incubator project.](https://blockchainforsocialimpact.com/incubator/)
 
 ## Next steps
 Our next major goal is to pilot Rent My Tent at [Houghton Festival](https://www.houghtonfestival.co.uk/)
