@@ -28,6 +28,17 @@ For a quick overview of how this works go [here](https://github.com/kelvinlockwo
 - Automatically putting a tent back on the marketplace
 - Communication / notifications that ensure the renter understands what is happening now that the rental period has come to an end
 
+## How it works
+### For tent sellers
+- **List your tent** > Include some photos and a description
+- **Sell your tent** > Get money for your idle tent
+- **Save the planet** > When your tent is taken off your hands it will always be available here for rent
+### For tent hirers
+- **Find a tent to rent** > Choose from a wide range of good-quality used tents
+- **Save money** > Pay for the rental and a refundable deposit
+- **Select rental period** > Choose how long you want to keep the tent
+- **Take care of the tent** > Once the rental period is up you’re the custodian until the next renter comes along
+
 ## Program Deliverables
 * [Week One](#week-one)
 * [Week Two](#week-two)
@@ -42,8 +53,8 @@ For a quick overview of how this works go [here](https://github.com/kelvinlockwo
 * What demographics do you serve?
   - 250,000 tents are left at music festivals across the UK every year. Source: Association of Independent Festivals.
   - [Atomik Research](https://www.atomikresearch.co.uk/survey-finds-2000000-worth-of-tents-and-sleeping-bags-abandoned-each-year/) found that music fans take £795 of camping gear to festivals leave £200's worth behind.
-* What is the size of the market?
-* What other solutions are currently being used to address this problem?
+* What is the size of the market? See page 5 in [pitch deck](https://docs.google.com/presentation/d/1pfMiXQ7ruqEg2t5wqel0RgIdHESrt7vAr_rtwXDiP0o/edit?usp=sharing)
+* What other solutions are currently being used to address this problem?  See page 10 in [pitch deck](https://docs.google.com/presentation/d/1pfMiXQ7ruqEg2t5wqel0RgIdHESrt7vAr_rtwXDiP0o/edit?usp=sharing)
 * What are the geopolitical, cultural-social-economic factors that must be taken into consideration?
   - Calls to ban retailers from selling "single-use" tents.
   - In a recent festival-goer-survey, 12% of respondents said they thought that a left tent would go to charity. It doesn’t.
@@ -84,7 +95,7 @@ For a quick overview of how this works go [here](https://github.com/kelvinlockwo
 
 By mocking up a Rent My Tent homepage we had a focal point and aid for our customer interviews.
 
-At the same time we got to work on the marketplace design / system architecture by working out all of the interactions that Toby and Rachel will have with Rent My Tent, and with each other. This work is represented by a complex diagram on Milanote.
+At the same time we got to work on the marketplace design / system architecture by working out all of the interactions that Toby and Rachel will have with Rent My Tent, and with each other. This work is represented by this [complex diagram](https://github.com/kelvinlockwood/Rent-My-Tent/blob/master/MarketplaceDesign_RentMyTent.pdf).
 
 ### MVP testing
 **Our testing approach**
@@ -113,16 +124,29 @@ During the final week we produced a series of videos to represent this project:
 
 - In this [7 min video](https://youtu.be/gKwf85RInG4) Kelvin gives a high level overview of the Rent My Tent marketplace, explaining its unique features.
 
-- In this X min video Rob goes under the hood of his smart contracts to explain how the Rent My Tent marketplace is enabled by the Ethereum [ERC-721](http://erc721.org/) token standard.
+- In this [10 min video](https://youtu.be/hIZE76YvB_0) Rob goes under the hood of his smart contracts to explain how the Rent My Tent marketplace is enabled by the Ethereum [ERC-721](http://erc721.org/) token standard.
+
+- In this [7 min video](https://youtu.be/YrmwcxcaUg8) Rob walks you through Rent My Tent from the front-end web perspective, demonstrating the steps to list a tent on the marketplace.
 
 - In this [series of videos](https://github.com/kelvinlockwood/Rent-My-Tent/blob/master/celo_demo.md) Jett demonstrates the mobile app functionality that he built using Celo's SDK.
 
-To showcase Rent My Rent we developed two technical projects. Our main project is built on Ethereum and the ERC721 token standard. And our supplementary project was built on Celo's SDK.
+---
+
+To showcase Rent My Rent we developed two technical projects. Our [primary project](https://youthful-volhard-3a730f.netlify.com/), a working decentralised [web app](https://github.com/kelvinlockwood/Rent-My-Tent/tree/master/web), is built on Ethereum and the ERC-721 token standard. And our [secondary project](https://github.com/jettandres/rent-my-tent) is built on Celo's SDK.
 
 Celo’s focus on being mobile-first and having a native stable currency offers a lot of promise to our project. We don’t want to expose our users to any complicated token economics or ask them to reason with the complexities of DAOs. We just need to make it easy to list a tent, easy to hire a tent and for locked up deposits to be safe from any threats. We also liked the idea of all users paying a $1 lifetime membership fee and that idea looked a good fit for Celo.
 
 ## Status
-Project is: _in progress_, a [Decentralized Impact Incubator project.](https://blockchainforsocialimpact.com/incubator/)
+Project has been submitted for judging, _Plastics & Pollution_ and _Celo Peace & Prosperity_ categories. A [Decentralized Impact Incubator project.](https://blockchainforsocialimpact.com/incubator/)
+
+## Next steps
+Our next major goal is to pilot Rent My Tent at [Houghton Festival](https://www.houghtonfestival.co.uk/)
+ in August of this year. We’ve had a warm response from [Amanda Eastwood](https://github.com/kelvinlockwood/Rent-My-Tent/blob/master/validation_from_festival_organiser.md)
+ who is keen on the idea, however she doesn’t yet know if Houghton Festival will run this year due to the current Coronavirus crisis.
+
+We’re also looking to take this project forward alongside opportunities in the blockchain space. We’ll be considering [MetaCartel](https://metacartel.xyz/), [The LAO](https://medium.com/@thelaoofficial/become-a-project-funded-by-the-lao-333e03cf5c) and [Celo Camp](https://medium.com/celoorg/announcing-celo-camp-f78ddf07e25d) in due course.
 
 ## Contact
-Team formed by Kelvin Lockwood - feel free to contact me!
+Team formed by [Kelvin Lockwood](https://twitter.com/kelvinlockwood) - feel free to contact me!
+
+_Our **Perpetual Deposit Return Scheme** concept has many applications beyond tents, by using [NFTs](https://opensea.io/blog/guides/non-fungible-tokens/) we represent real world items and then attach value to them so that theres always an incentive not to dispose of them._ :earth_americas:
