@@ -18,6 +18,13 @@ Read more about the problem [here](https://mixmag.net/read/festival-organisers-b
 * Rachel  (see Rachel's user persona on [Milanote](https://app.milanote.com/1J9Pro1KiYulbl))
   - As someone in the market for a tent I'd rather rent than own a tent, to save money and to depend on less stuff.
 
+## Why?
+[Rent My Tent](https://rent-my-tent.org/) can reduce the demand for tent ownership by bringing together people who have and people who need tents - in a simple online marketplace transaction.
+
+By promoting tent utility / reuse, we can drive down the need for tent ownership.
+
+Less tent ownership means less tents need to be manufactured, saving viral resources and reducing waste disposal.
+
 ## System Overview
 Once a tent is added to the marketplace it will always be available for rent; except during rental periods when the tent is being used by the renter.
 
