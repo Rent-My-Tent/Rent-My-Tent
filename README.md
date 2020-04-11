@@ -23,7 +23,7 @@ Read more about the problem [here](https://mixmag.net/read/festival-organisers-b
 
 By promoting tent utility / reuse, we can drive down the need for tent ownership.
 
-Less tent ownership means less tents need to be manufactured, saving viral resources and reducing waste disposal.
+**Less tent ownership** means less tents need to be manufactured, saving viral resources and reducing waste disposal.
 
 ## System Overview
 Once a tent is added to the marketplace it will always be available for rent; except during rental periods when the tent is being used by the renter.
