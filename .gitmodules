@@ -4,3 +4,6 @@
 [submodule "eth"]
 	path = eth
 	url = https://github.com/robsecord/RentMyTentEth
+[submodule "web"]
+	path = web
+	url = https://github.com/robsecord/RentMyTentWeb/
