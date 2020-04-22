@@ -9,3 +9,15 @@ Where the _image origin_ falls within the festival grounds (geofence) we’ll be
 This partnership program is a low-friction and easily trackable way for festivals, and any physical venue (that can provide a geofence), to earn commissions by promoting Rent My Tent to their customers.
 
 Much like [Brave Rewards](https://publishers.basicattentiontoken.org/), commissions can be allocated even before festivals have signed up to the program.
+
+---
+
+## Partners sign up page
+
+_**Join the Rent My Tent Partner Program**_
+
+- Introduce your festival-goers to Rent My Tent and earn from their tent sales.
+- Encourage your festival-goers to put their tent back into a circular economy.
+- Help festival-goers understand why this drives down plastic consumption.
+
+As a partner, you’ll receive product training, support with communications and be connected with other partners.
