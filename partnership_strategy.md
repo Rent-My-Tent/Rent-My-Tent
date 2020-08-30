@@ -16,6 +16,8 @@ Much like [Brave Rewards](https://publishers.basicattentiontoken.org/), commissi
 
 _Rent My Tent is your festivals platform to heighten its environmental goals. Help spread the message so that your festivals goers can do more and better with less._
 
+A no-brainer - we bring a seamless way for your festival to earn a commission on all of the tent sales that originate from your festival grounds. Commissions are allocated automatically, just make sure you sign up to claim them.
+
 _**Join the Rent My Tent Partner Program**_
 
 - Introduce your festival-goers to Rent My Tent and earn from their tent sales.
