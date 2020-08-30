@@ -1,6 +1,6 @@
 ## Partnership strategy
 
-We can offer a seamless way for festivals to earn a commision on all of the tent sales which originate from their festival. To do this we’ll use the geotag embedded in the tent images that get uploaded for Rent My Tent marketplace listings.
+We can offer a seamless way for festivals to earn a commission on all of the tent sales which originate from their festival. To do this we’ll use the geotag embedded in the tent images that get uploaded for Rent My Tent marketplace listings.
 
 So when someone lists their tent on Rent My Tent we can keep a record of the place that they took the photo of the tent.
 
@@ -13,6 +13,8 @@ Much like [Brave Rewards](https://publishers.basicattentiontoken.org/), commissi
 ---
 
 ## Partners sign up page
+
+_Rent My Tent is your festivals platform to heighten its environmental goals. Help spread the message so that your festivals goers can do more and better with less._
 
 _**Join the Rent My Tent Partner Program**_
 
