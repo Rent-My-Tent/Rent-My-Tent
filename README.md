@@ -151,8 +151,6 @@ Our next major goal is to pilot Rent My Tent at [Houghton Festival](https://www.
  in August of this year. We’ve had a warm response from [Amanda Eastwood](https://github.com/kelvinlockwood/Rent-My-Tent/blob/master/validation_from_festival_organiser.md)
  who is keen on the idea, however she doesn’t yet know if Houghton Festival will run this year due to the current Coronavirus crisis.
 
-We’re also looking to take this project forward alongside opportunities in the blockchain space. We’ll be considering [MetaCartel](https://metacartel.xyz/), [The LAO](https://medium.com/@thelaoofficial/become-a-project-funded-by-the-lao-333e03cf5c) and [Celo Camp](https://medium.com/celoorg/announcing-celo-camp-f78ddf07e25d) in due course.
-
 ## Contact
 Team formed by [Kelvin Lockwood](https://twitter.com/kelvinlockwood) - feel free to contact me!
 
